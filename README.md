@@ -53,7 +53,5 @@ I have hands-on experience working with clients, where I have successfully imple
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<p>
-  <a href="https://www.linkedin.com/in/reinisbalodis/" target="_blank">LinkedIn Profile</a> | 
-  <a href="mailto:balodis.reinis17@gmail.com?subject=Hello&body=Job%20offer%20available%3F">Email Me</a>
-</p>
+## https://www.linkedin.com/in/reinisbalodis/
+## balodis.reinis17@gmail.com
