@@ -60,6 +60,6 @@ I have hands-on experience working with clients, where I have successfully imple
 
 ### 🎮 Hobbies & Interests
 
-- **Video Games**: I enjoy immersing myself in various video game genres, especially RPGs and strategy games. Gaming not only serves as a great way to unwind but also enhances my problem-solving skills.
+- **Video Games**: I enjoy immersing myself in various video game genres, especially RPGs and FPS games. Gaming not only serves as a great way to unwind but also enhances my problem-solving skills.
 
 - **Reading**: I have a passion for reading, particularly books about psychology. I love exploring human behavior, motivation, and the intricacies of the mind, which often inspires my approach to software development and user experience.
