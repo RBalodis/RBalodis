@@ -44,3 +44,12 @@ I have hands-on experience working with clients, where I have successfully imple
 ## 💡 What I Love
 - **Problem-Solving**: I thrive on challenges and enjoy finding innovative solutions.
 - **Code in Action**: There's nothing more satisfying than seeing my code come to life in real applications.
+
+<div align="left">
+  <a href="mailto:balodis.reinis17@gmail.com?subject=Hello&body=Job%20offer%20available%3F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/reinisbalodis/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
