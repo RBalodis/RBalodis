@@ -57,3 +57,9 @@ I have hands-on experience working with clients, where I have successfully imple
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+### 🎮 Hobbies & Interests
+
+- **Video Games**: I enjoy immersing myself in various video game genres, especially RPGs and strategy games. Gaming not only serves as a great way to unwind but also enhances my problem-solving skills.
+
+- **Reading**: I have a passion for reading, particularly books about psychology. I love exploring human behavior, motivation, and the intricacies of the mind, which often inspires my approach to software development and user experience.
